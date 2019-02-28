@@ -1,6 +1,6 @@
 {
   "name": "@aximario/eslint-config-aximario",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "aximario's personal eslint config",
   "main": "index.js",
   "scripts": {
