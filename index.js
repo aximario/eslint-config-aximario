@@ -13,5 +13,6 @@ module.exports = {
         indent: ['error', 4],
         semi: ["error", "never"],
         "react/jsx-indent": ["error", 4, { checkAttributes: true }], // 是否检查属性也要 4 个空格
+        "react/jsx-indent-props": ["error", 4], // react 属性缩进
     }
 }
